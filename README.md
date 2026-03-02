@@ -16,6 +16,3 @@ Practical templates and operating docs for building AI-agent workflows with clea
 3. Use [docs/orchestration/task-trace-example.md](docs/orchestration/task-trace-example.md) as your onboarding reference.
 4. Copy templates from [templates/AGENTS.template.md](templates/AGENTS.template.md) and [templates/SKILL.template.md](templates/SKILL.template.md) for new projects.
 
-## Naming
-
-`agentic-ai-development` is a strong repository name. It is explicit and should be easier to discover.
